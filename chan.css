@@ -16,7 +16,7 @@
 			.jwplayer.jw-skin-chans .jw-text-track-cue {
 				background: rgba(0,0,0,0)!important;
 				font-family: 'Jolly Lodger', cursive!important;
-    			text-shadow: 1px 1px 2px #0066ff!important;
+    			text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black!important;
     			color: #f1f1f1!important;
     			font-weight: bold!important;
 			}
