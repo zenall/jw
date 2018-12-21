@@ -9,7 +9,10 @@ margin-bottom: -2%!important;
 }
 .jwplayer.jw-skin-chans .jw-text-track-cue {
 background: rgba(0,0,0,0)!important;
+  /*
 font-family: 'Jolly Lodger', cursive!important;
+  */
+font-family: Tahoma!important;
 text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black!important;
 color: #f1f1f1!important;
 font-weight: bold!important;
