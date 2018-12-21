@@ -1,34 +1,19 @@
-		.jw-logo{
-			margin:0!important;
-			opacity: .5!important;
-		}
-			.jw-captions {
-				background-: rgba(0,0,0,0.4)!important;
-				color: red!important;
-			}
-			.jw-text-track {
-
-			}
-			.jw-text-track-container {
-				margin-bottom: -2%!important; 
-			}
-			.jwplayer.jw-skin-chans .jw-text-track-cue {
-				background: rgba(0,0,0,0)!important;
-				font-family: 'Jolly Lodger', cursive!important;
-    			text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black!important;
-    			color: #f1f1f1!important;
-    			font-weight: bold!important;
-			}
-			@media screen and (max-width:900px){
-				.jw-captions {
-					font-size:10px!important;
-				}
-			}
-			@media screen and (max-width:400px){
-				.jw-captions {
-					font-size:18px!important;
-				}
-			}
+.jw-captions {
+background-: rgba(0,0,0,0.4)!important;
+color: red!important;
+}
+.jw-text-track {
+}
+.jw-text-track-container {
+margin-bottom: -2%!important; 
+}
+.jwplayer.jw-skin-chans .jw-text-track-cue {
+background: rgba(0,0,0,0)!important;
+font-family: 'Jolly Lodger', cursive!important;
+text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black!important;
+color: #f1f1f1!important;
+font-weight: bold!important;
+}
 
 .jwplayer.jw-skin-chans .jw-controlbar {
   background-color: rgba(19, 20, 21, 0.8)fff;
