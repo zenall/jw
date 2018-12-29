@@ -5,7 +5,9 @@ color: red!important;
 .jw-text-track {
 }
 .jw-text-track-container {
+/*
 margin-bottom: -2%!important; 
+*/
 }
 .jwplayer.jw-skin-chans .jw-text-track-cue {
 background: rgba(0,0,0,0)!important;
